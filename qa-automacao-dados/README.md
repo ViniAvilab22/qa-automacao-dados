@@ -1,6 +1,6 @@
 # QA Automação de Dados
 
-Projeto de estudos n8n.
+Projeto prático de automação de dados utilizando 8n e APIs REST.
 
 ## Tecnologias
 - Git e GitHub

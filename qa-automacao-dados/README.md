@@ -8,7 +8,7 @@ Projeto de estudos n8n.
 - APIs REST
 - n8n
 - SQL
-- Engenharia de Dados alteracao
+- Engenharia de Dados
 
 ## Objetivo
 Construir uma automação que consome dados de uma API,
